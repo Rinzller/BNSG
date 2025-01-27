@@ -37,7 +37,7 @@ BNSG has no external dependencies (MOOSE, MIST) so you can simply
 * You can get the [bnsg.lua](bnsg.lua) here
 
 ## Continue the conversation
-Feel free to post any problems or suggestions on the [ED Forums](https://forum.dcs.world/topic/349094-introducing-flightdeck-a-simple-but-smart-launcher-for-dcs/)
+Feel free to post any problems or suggestions on the [ED Forums](https://forum.dcs.world/topic/368420-better-naval-strike-group-bnsg/)
   
 ## For nerds
 This mod was 95% built using ChatGPT...
