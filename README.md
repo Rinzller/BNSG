@@ -30,6 +30,8 @@ BNSG has no external dependencies (MOOSE, MIST) so you can simply
 ## FAQ
 * Why are there no ships available on REDFOR?
     * Currently, no REDFOR ships are capable of firing cruise missiles
+* You are aware you can do this with Combined Arms?
+    * Yes I am aware...
 
 ## Download links
 * You can get the [bnsg.lua](bnsg.lua) here
