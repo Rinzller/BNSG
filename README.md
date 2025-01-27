@@ -1,4 +1,4 @@
-# Better Naval Strike Groups (BNSG)
+# Better Naval Strike Group (BNSG)
 
 ![Banner](.github/media/bnsg-logo.png)
 
