@@ -3,7 +3,7 @@
 ![Banner](.github/media/bnsg-logo.png)
 
 ## What does BNSG do?
-BNSG allows you to take control of the cruise missiles aboard your favorite destroyers and cruisers from the comfort of your ejection seat.
+BNSG is a Mod for DCS that allows you to take control of the cruise missiles aboard your favorite destroyers and cruisers from the comfort of your ejection seat.
 
 ## Why did I create this?
 I have felt that the Carrier Strike Groups (CSG) have always been a bit underwhelming in DCS. Especially, seeing how they are used in Multiplayer servers. The countless times, where I have launched off the deck only to be immediately engaged by an SA10 or SA05 on the coast. The CSG, rather than a strategic asset, are simply resorted to a runway on water. With this Mod, I can fly, determine a location of those SA05 and SA10 and fire a Tomahawk without putting a plane in danger.
